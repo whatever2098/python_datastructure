@@ -7,5 +7,4 @@ while count <= input_val:
   total += count                   #튜플 언패킹(# total과 count를 동시에 갱신
   count += 1                       #total, count = total + count, count + 1)
   
-print(total + input_val)
-
+print(total + input_val
